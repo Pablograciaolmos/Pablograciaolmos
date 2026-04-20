@@ -1,10 +1,20 @@
-# 👋 ¡Hola! Soy Pablo Gracia Olmos
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&secondaryColor=3a7bd5&height=200&section=header&text=Pablograciaolmos&fontSize=80&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/andriish01/andriish01/main/assets/line-wave.gif" width="100%" />
 </p>
 
-### 🛠️ Desarrollador [Tu Especialidad] | Resolviendo problemas a través del código
+<div align="center">
+  
+# ⚡ PABLO GRACIA OLMOS ⚡
+  
+![Full Stack](https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00D2FF?style=for-the-badge&logo=codeforces&logoColor=white) 
+![Spain](https://img.shields.io/badge/LOCALIZACI%C3%93N-ESPA%C3%91A-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black)
+![Status](https://img.shields.io/badge/ESTADO-OPEN%20TO%20WORK-32CD32?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 🛠️ Desarrollador Full-Stack | Resolviendo problemas a través del código
 
 ---
 
@@ -12,10 +22,10 @@
 
 Soy un apasionado de la tecnología con base en **España**. Mi enfoque principal es crear software que no solo funcione, sino que sea fácil de mantener y escalar. Me encanta la arquitectura de software y el aprendizaje continuo.
 
-- 🔭 **Proyecto actual:** Trabajando en [Nombre del Proyecto] - *[Breve descripción]*.
-- 🎓 **Formación:** [Tu Grado o Título] en [Institución].
-- ⚡ **Dato curioso:** Siempre busco la forma de automatizar las tareas repetitivas.
-- 📧 **Contacto:** [tu-email@ejemplo.com]
+- 🔭 **Proyecto actual:** Trabajando en Gestion Productos y Usuarios - * Gestion grande de productos y control de ususarios logeados.
+- 🎓 **Formación:** Grado Superior DAW en Valle Del Miro.
+- ⚡ **Dato curioso:** Soy trabajador, pero, inteligente.
+- 📧 **Contacto:** pabloskygarciaolmos@gmail.com.
 
 ---
 
@@ -28,42 +38,26 @@ Soy un apasionado de la tecnología con base en **España**. Mi enfoque principa
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br>React
+      <img src="https://skillicons.dev/icons?i=c#" width="40" height="40" alt="c-sharp" />
+      <br>C#
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br>Docker
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>Postgres
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
+      <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
-      <br>VS Code
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+      <br>CSS
     </td>
   </tr>
 </table>
@@ -85,17 +79,8 @@ Soy un apasionado de la tecnología con base en **España**. Mi enfoque principa
 
 ## 🌟 Proyectos Destacados
 
-1. **[Proyecto Uno](https://github.com/Pablograciaolmos/repo-1)**: Una aplicación de [descripción] hecha con React.
+1. **[Proyecto Uno](https://github.com/Pablograciaolmos/Practica)**: Una aplicación de gestion de productos y usuarios hecha con C#.
 2. **[Proyecto Dos](https://github.com/Pablograciaolmos/repo-2)**: Herramienta de automatización en Python.
-
----
-
-## 📫 Conecta conmigo
-
-<p align="left">
-<a href="https://linkedin.com/in/Pablograciaolmos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pablo Gracia Olmos" height="30" width="40" /></a>
-<a href="https://pablograciaolmos.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
-</p>
 
 ---
 
