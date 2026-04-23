@@ -82,7 +82,7 @@ Soy un apasionado de la tecnología con base en **España**. Mi enfoque principa
 
 ## 🌟 Proyectos Destacados
 
-1. **[Proyecto Uno](https://github.com/Pablograciaolmos/Practica)**: Una aplicación de gestion de productos y usuarios hecha con C#.
+1. **[Practica1](https://github.com/Pablograciaolmos/Practica)**: Una aplicación de gestion de productos y usuarios hecha con C#.
 2. **[Proyecto Dos](https://github.com/Pablograciaolmos/repo-2)**: Herramienta de automatización en Python.
 
 ---
